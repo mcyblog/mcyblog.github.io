@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>克喵の小站</title>
+  <icon>https://www.261770.xyz/icon.png</icon>
+  <subtitle>Ke Miao Blog</subtitle>
+  <link href="https://www.261770.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://www.261770.xyz/"/>
+  <updated>2024-12-28T22:27:45.188Z</updated>
+  <id>https://www.261770.xyz/</id>
+  
+  <author>
+    <name>克喵爱吃卤面</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>misakaX介绍</title>
+    <link href="https://www.261770.xyz/posts/miskaX.html"/>
+    <id>https://www.261770.xyz/posts/miskaX.html</id>
+    <published>2024-12-28T22:13:06.369Z</published>
+    <updated>2024-12-28T22:27:45.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;misakaX：iOS-iPadOS系统定制增强工具，开启Apple-Intelligence、动态岛、充电限制、台前调度、快门声音、AOD、旧照片用户界面、横向FaceID等功能&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="软件介绍" scheme="https://www.261770.xyz/categories/%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+    <category term="工具" scheme="https://www.261770.xyz/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="ios" scheme="https://www.261770.xyz/tags/ios/"/>
+    
+    <category term="系统增强" scheme="https://www.261770.xyz/tags/%E7%B3%BB%E7%BB%9F%E5%A2%9E%E5%BC%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>克喵的资源分享4</title>
+    <link href="https://www.261770.xyz/posts/kmblog4.html"/>
+    <id>https://www.261770.xyz/posts/kmblog4.html</id>
+    <published>2024-12-28T19:11:03.278Z</published>
+    <updated>2024-12-28T20:11:59.164Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2024-11-29-资源分享&quot;&gt;&lt;a href=&quot;#2024-11-29-资源分享&quot; class=&quot;headerlink&quot; title=&quot;2024-11-29 资源分享&quot;&gt;&lt;/a&gt;2024-11-29</summary>
+        
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://www.261770.xyz/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android" scheme="https://www.261770.xyz/tags/Android/"/>
+    
+    <category term="工具" scheme="https://www.261770.xyz/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="音乐" scheme="https://www.261770.xyz/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="macOS" scheme="https://www.261770.xyz/tags/macOS/"/>
+    
+    <category term="开源" scheme="https://www.261770.xyz/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="网站" scheme="https://www.261770.xyz/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="博客" scheme="https://www.261770.xyz/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Github" scheme="https://www.261770.xyz/tags/Github/"/>
+    
+    <category term="免费" scheme="https://www.261770.xyz/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="发票" scheme="https://www.261770.xyz/tags/%E5%8F%91%E7%A5%A8/"/>
+    
+    <category term="软件" scheme="https://www.261770.xyz/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="窗口置顶" scheme="https://www.261770.xyz/tags/%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6/"/>
+    
+    <category term="海报" scheme="https://www.261770.xyz/tags/%E6%B5%B7%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2024-11-23的资源分享</title>
+    <link href="https://www.261770.xyz/posts/a7aa354.html"/>
+    <id>https://www.261770.xyz/posts/a7aa354.html</id>
+    <published>2024-11-23T12:38:23.000Z</published>
+    <updated>2024-12-30T03:20:37.382Z</updated>
+    
+    
+    <summary type="html">资源分享#2</summary>
+    
+    
+    
+    <category term="资源分享" scheme="https://www.261770.xyz/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android" scheme="https://www.261770.xyz/tags/Android/"/>
+    
+    <category term="工具" scheme="https://www.261770.xyz/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Windows" scheme="https://www.261770.xyz/tags/Windows/"/>
+    
+    <category term="Linux" scheme="https://www.261770.xyz/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://www.261770.xyz/tags/macOS/"/>
+    
+    <category term="开源" scheme="https://www.261770.xyz/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="视频" scheme="https://www.261770.xyz/tags/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="网站" scheme="https://www.261770.xyz/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="AI" scheme="https://www.261770.xyz/tags/AI/"/>
+    
+    <category term="输入法" scheme="https://www.261770.xyz/tags/%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    
+    <category term="小程序" scheme="https://www.261770.xyz/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="源码" scheme="https://www.261770.xyz/tags/%E6%BA%90%E7%A0%81/"/>
+    
+    <category term="图片处理" scheme="https://www.261770.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://www.261770.xyz/posts/ff05b5bf.html"/>
+    <id>https://www.261770.xyz/posts/ff05b5bf.html</id>
+    <published>2024-11-22T14:24:14.000Z</published>
+    <updated>2024-12-30T03:20:37.382Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-资源分享&quot;&gt;&lt;a href=&quot;#1-资源分享&quot; class=&quot;headerlink&quot; title=&quot;#1 资源分享&quot;&gt;&lt;/a&gt;#1 资源分享&lt;/h1&gt;&lt;h2 id=&quot;🆔脚本名称：CSDN-Focus&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="资源分享" scheme="https://www.261770.xyz/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android" scheme="https://www.261770.xyz/tags/Android/"/>
+    
+    <category term="工具" scheme="https://www.261770.xyz/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="音乐" scheme="https://www.261770.xyz/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="Windows" scheme="https://www.261770.xyz/tags/Windows/"/>
+    
+    <category term="Linux" scheme="https://www.261770.xyz/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://www.261770.xyz/tags/macOS/"/>
+    
+    <category term="开源" scheme="https://www.261770.xyz/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="小说" scheme="https://www.261770.xyz/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+</feed>
