@@ -67,7 +67,7 @@
   isHome: false,
   isHighlightShrink: true,
   isToc: false,
-  postUpdate: '2025-01-01 02:40:47',
+  postUpdate: '2025-01-01 10:22:25',
   postMainColor: '',
 }</script><noscript><style type="text/css">
   #nav {
@@ -417,7 +417,7 @@ queueMicrotask(() => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
         envId: 'https://www.17173946.xyz/',
-        region: '',
+        region: 'ap-nanjing',
         pageSize: 6,
         includeReply: true
       }).then(function (res) {
@@ -442,7 +442,7 @@ queueMicrotask(() => {
     if (typeof twikoo === 'object') {
       runTwikoo()
     } else {
-      getScript('https://npm.onmicrosoft.cn/twikoo@1.6.39/dist/twikoo.all.min.js').then(runTwikoo)
+      getScript('https://npm.onmicrosoft.cn/twikoo@1.6.40/dist/twikoo.all.min.js').then(runTwikoo)
     }
   }
 
