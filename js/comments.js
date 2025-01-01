@@ -58,7 +58,7 @@
       API_URL: 'https://twikoo.kemiaosw.top/',
       ADMIN_EMAIL_MD5: 'a9e107a40f3e83dbbb8bbad15346324ef5aa28f2413bc6c4c3cbfc8af57c8205',
       PAGE_SIZE: 5,
-      LOADING_GIF: 'https://lib.bsgun.cn/Hexo-static/img/loading.gif',
+      LOADING_GIF: '/images/loading.copy.gif',
     
       async fetchComments() {
         const controller = new AbortController();
